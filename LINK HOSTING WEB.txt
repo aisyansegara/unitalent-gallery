@@ -1,0 +1,5 @@
+LINK HOSTING WEB:
+https://unitalent-gallery.vercel.app/
+
+WEBSITE MENGGUNAKAN REACT JS dan BOOTSTRAP
+perlu install react js dan react bootstrap sebelum menjalankan aplikasi
