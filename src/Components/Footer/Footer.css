@@ -1,0 +1,9 @@
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #28a745; /* Warna hijau saat di-hover (warna "success") */
+    text-decoration: none;
+}

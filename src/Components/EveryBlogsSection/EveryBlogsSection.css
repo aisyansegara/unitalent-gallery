@@ -1,0 +1,18 @@
+.every-blogs-section .card {
+    height: 300px;
+}
+
+.every-blogs-section .card:hover {
+    cursor: pointer;
+}
+
+.every-blogs-section .image-div {
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 576px) {
+    .every-blogs-section .card {
+        height: 300px;
+    }
+}

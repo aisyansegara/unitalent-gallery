@@ -1,0 +1,46 @@
+.marketplaces-page .second-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/SecondHeroImage.jpg);
+}
+
+.blogs-page .second-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/carousel2-image.jpg);
+}
+
+.marketplaces-page .product-discount-section {
+    background-image: linear-gradient(#0000001a, rgba(0, 0, 0, 0.75)), url(../../Assets/Images/product-discount-section-image.jpg);
+}
+
+.about-us-page .second-hero-section {
+    background-image: linear-gradient(#0000001a, rgba(0, 0, 0, 0.75)), url(../../Assets/Images/carousel3-image.jpg);
+}
+
+.marketplaces-page .product-recommendations-section .container {
+    background-image: url(../../Assets/Images/product-recommendations-section-image.jpg);
+}
+
+.marketplaces-page .suggest-products-for-you-section {
+    background-image: url(../../Assets/Images/suggest-products-for-you-image.jpg);
+}
+
+.pagination-success .page-link {
+    color: #198754;
+}
+
+.pagination-success .page-link:hover {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.pagination-success .page-item.active .page-link {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.pagination-success .page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}

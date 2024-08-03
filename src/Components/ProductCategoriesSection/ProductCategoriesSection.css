@@ -1,0 +1,19 @@
+.product-categories-section .art-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/HealthCareCategory.jpg);
+}
+
+.product-categories-section .construction-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/SmartHomeCategory.jpg);
+}
+
+.product-categories-section .technology-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/SmartIndustryCategory.jpg);
+}
+
+.product-categories-section .art-div,
+.product-categories-section .construction-div,
+.product-categories-section .technology-div {
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}

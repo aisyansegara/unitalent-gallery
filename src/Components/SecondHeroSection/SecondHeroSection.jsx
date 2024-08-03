@@ -1,0 +1,15 @@
+import React from "react";
+import './SecondHeroSection.css';
+import Container from "react-bootstrap/Container";
+
+function SecondHeroSection(param) {
+    return (
+        <div className="second-hero-section">
+            <Container className="h-100 d-flex align-items-center justify-content-center text-light">
+                <h1>{param.secondHeroTitle}</h1>
+            </Container>
+        </div>
+    )
+}
+
+export default SecondHeroSection;

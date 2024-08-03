@@ -1,0 +1,18 @@
+.best-selling-products-section .img-div {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.best-selling-products-section .h5,
+.best-selling-products-section .price {
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 576px) {
+    .best-selling-products-section .img-div {
+        height: 200px;
+    }
+}

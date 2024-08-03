@@ -1,0 +1,22 @@
+.about-us-contact-section {
+    background-image: url(../../Assets/Images/AbouUsContactImage.jpg);
+}
+
+.about-us-contact-section {
+    background-size: cover;
+    background-position: center;
+}
+
+.about-us-contact-section .bg-shape {
+    width: 50%;
+    background-color: var(--secondary-bg-color);
+    background-size: cover;
+    bottom: 0;
+    top: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .about-us-contact-section .bg-shape {
+        width: 100%;
+    }
+}

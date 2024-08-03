@@ -1,0 +1,11 @@
+.home-page .top-products-recommendations-section .container {
+    background-image: url(../../Assets/Images/product-recommendations-section-image.jpg);
+}
+
+.home-page .product-categories-recommendations-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.10), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/product-discount-section-image.jpg);
+}
+
+.home-page .marketplace-recommendations-section {
+    background-image: url(../../Assets/Images/marketplace-recommendations-image.jpg);
+}
